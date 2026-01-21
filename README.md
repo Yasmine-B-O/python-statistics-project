@@ -6,6 +6,12 @@ Mohammed VI Polytechnic University (UM6P), College of Computing.
 The goal of the project is to perform statistical analysis using Python
 on a dataset.
 
+## Contributors
+This project was completed by:
+- BOUABOUD Yasmin
+- EL KADI Salma
+
+
 ## Files
 - `projet proba.ipynb`: Jupyter Notebook containing data analysis and statistical methods
 - `StudentPerformanceFactors.csv`: Dataset used for the analysis
